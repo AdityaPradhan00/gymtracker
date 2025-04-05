@@ -58,7 +58,7 @@ UI Components: React Icons, Headless UI
 
 # Clone the repository
 
-git clone https://github.com/yourusername/gym-tracker.git
+git clone https://github.com/AdityaPradhan00/gymtracker.git
 cd gym-tracker
 
 # Install dependencies
@@ -101,4 +101,4 @@ Submit a Pull Request.
 
 📞 Contact
 
-For questions or suggestions, reach out via [your email] or open an issue on GitHub.
+For questions or suggestions, reach out via aditya1pradhan21@gmail.com or open an issue on GitHub.
